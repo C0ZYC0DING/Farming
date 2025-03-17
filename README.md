@@ -16,7 +16,7 @@
 
 Now Availabe From [website](https://www.5mservers.com/)
 
-🚫Me and my friends no longer post on the fivem forum or github, the fivem forum is filled with leaks and children who have no respect. We had so many people use our script for self promotion and not give us credit. For this reason we have teamed up with 5M Servers who allow us to list our scripts via there website and it means we can focus on releasing paud scri
+
 
 ## 🎥 Video Preview  
 [![Watch the video](https://img.youtube.com/vi/1dGEOo7pZa8/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dGEOo7pZa8)  
