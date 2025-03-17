@@ -1,23 +1,24 @@
-# 🌿 CozyCode Fivem Farming Script  
+**Me and my friends had over 10x amazing and unique scripts to be released on the forum for free and open source, however we have had a change of heart**
 
-Our [website](http://cozy-coding.com//)
+:no_entry_sign:  Me and my friends have decided **NOT** to release any more free scripts on FiveM for the following reasons.
 
+- Since using the fivem forum for the first time, we have had nothing but grief
 
+- We have had to deal with people using our forum post for self promotion along with manby people using our script for self promotion without giving us credit resulting in us wasting time having things removed from offline
+
+- the script has been used hundreds of times, all we asked for was a like on our video or forum. Interaction level was disappointing 
+
+- We notice that children who use our mods in Minecraft are far more respectful and actually read what we write prior to commenting compared to the "adults" that operate on fivem
+
+- The fivem forums are filled with leaks, fake accounts, and the same script being posted over and over with minor changes 
+
+- When we release something for free, why the fuck do you guys thing you are entitled to demand changes and things from us?
+
+Now Availabe From [website](https://www.5mservers.com/)
+
+🚫Me and my friends no longer post on the fivem forum or github, the fivem forum is filled with leaks and children who have no respect. We had so many people use our script for self promotion and not give us credit. For this reason we have teamed up with 5M Servers who allow us to list our scripts via there website and it means we can focus on releasing paud scri
 
 ## 🎥 Video Preview  
 [![Watch the video](https://img.youtube.com/vi/1dGEOo7pZa8/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dGEOo7pZa8)  
 
-## ✨ Features  
-- ✅ **Free & Fully Open Source**  
-- 🌱 **Plant seeds and grow plants**  
-- 🍃 **Grow weed or any type of plant**  
-- 💰 **Sell grown plants for cash rewards**  
-- 🌾 **Create and add as many plants as you like**  
-- 🎨 **Clean, modern UI system**  
-- 🚀 **Created by us & regularly updated**  
 
-## 📜 About  
-A free, fully open-source script for **FiveM roleplay servers**. We created this script to provide a **simple, easy-to-use** farming system with a **modern, clean UI**. Enjoy growing and selling plants with a smooth and immersive experience.  
-
----  
-📌 If you use our script for YouTube, GitHub, or any other platform, you must leave us credit as the original creator!  
