@@ -14,7 +14,7 @@
 
 - When we release something for free, why the fuck do you guys thing you are entitled to demand changes and things from us?
 
-Now Availabe From [website](https://www.5mservers.com/)
+Now Availabe From [website](https://www.5mservers.com/) a place for devs to list there free and paid scripts without having to babysit kids on forums
 
 
 
